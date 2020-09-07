@@ -1,0 +1,1 @@
+This is a notebook for the first project for Friend of Tracking course in football analytics. Code inspiring this work, and the data used is available in this git repo https://github.com/Friends-of-Tracking-Data-FoTD/SoccermaticsForPython.
